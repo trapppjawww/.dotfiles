@@ -5,3 +5,4 @@
 (show-paren-mode 1)
 
 (setq inhibit-startup-screen t)
+(setq make-backup-files nil)
