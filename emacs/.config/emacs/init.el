@@ -6,3 +6,4 @@
 
 (setq inhibit-startup-screen t)
 (setq make-backup-files nil)
+(setq column-number-mode t)
