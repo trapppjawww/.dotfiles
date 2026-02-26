@@ -1,2 +1,5 @@
 alacritty/.config/alacritty/dank-theme.toml
 niri/.config/niri/dms/
+emacs/.config/emacs/.mc-lists.el
+emacs/.config/emacs/eln-cache/
+emacs/.config/emacs/elpa/
